@@ -1,0 +1,23 @@
+{
+  "sword": {
+    "id": "sword",
+    "name": "Steel Sword",
+    "type": "weapon",
+    "damage": 10,
+    "value": 100
+  },
+  "shield": {
+    "id": "shield",
+    "name": "Wooden Shield",
+    "type": "armor",
+    "defense": 5,
+    "value": 50
+  },
+  "potion": {
+    "id": "potion",
+    "name": "Health Potion",
+    "type": "consumable",
+    "healing": 20,
+    "value": 30
+  }
+} 
